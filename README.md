@@ -9,7 +9,7 @@
 - **Member 3:** Neha - [Saintgits College of Engineering]
 
 ## Hosted Project Link
-[Your hosted project link here]
+(https://anjani91.github.io/text-to-asl/)
 
 ## Project Description
 Text-to-ASL is a web application designed to translate text and speech into American Sign Language (ASL) gestures. This tool helps bridge communication gaps for individuals with hearing impairments by providing visual representations of ASL signs. It enables real-time translation of written or spoken input into animated ASL signs, making communication more accessible and inclusive.
@@ -24,13 +24,9 @@ The solution is an intuitive web app that allows users to enter text or speech, 
 ### Technologies/Components Used
 For Software:
 - **Languages used**: HTML, CSS, JavaScript
-- **Frameworks used**: None
-- **Libraries used**: [Library/Component name if any]
 - **Tools used**: Visual Studio Code, Git
 
 For Hardware:
-- **List main components**: None
-- **List specifications**: Not applicable
 - **List tools required**: Web browser
 
 ## Implementation
