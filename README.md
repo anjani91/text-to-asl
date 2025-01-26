@@ -27,7 +27,7 @@ For Software:
 - **Tools used**: Visual Studio Code, Git
 
 For Hardware:
-- **List tools required**: Web browser
+Web browser
 
 ## Implementation
 
